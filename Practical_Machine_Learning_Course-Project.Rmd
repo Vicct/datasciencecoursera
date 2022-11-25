@@ -4,7 +4,7 @@ author: "VICTOR CAMPOS"
 date: '2022-09-07'
 output: pdf_document
 ---
-
+#Nuevo
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
